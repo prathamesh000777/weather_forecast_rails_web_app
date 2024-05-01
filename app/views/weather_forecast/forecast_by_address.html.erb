@@ -1,0 +1,29 @@
+<!-- app/views/weather_forecast/index.html.erb -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Weather Forecast</title>
+</head>
+<body>
+  <%= link_to "Back to Search", "forecast" %>
+  <h1>3-Day Weather Forecast</h1>
+  <p>Country: <%= @address_details.country %> </p>
+  <p>State: <%= @address_details.state %> </p>
+  <p>City: <%= @address_details.city %> </p>
+  <p>Postal Code: <%= @address_details.postal_code %> </p>
+  <p>Latitude: <%= @address_details.lat %> </p>
+  <p>Longitude: <%= @address_details.lng %> </p>
+  <p>Cached Response: <%= @cached_response%> </p>
+  <hr>
+
+  <% @forecast_details[..2].each do |forecast_detail| %>
+    <h2><%= forecast_detail.day %></h2>
+    <p>Temperature: <%= forecast_detail.temperature %>°C</p>
+    <p>Minimum Temperature: <%= forecast_detail.temperature_min %>°C</p>
+    <p>Maximum Temperature: <%= forecast_detail.temperature_max %>°C</p>
+    <p>Description: <%= forecast_detail.weather_description %></p>
+    <p>Summary: <%= forecast_detail.summary %></p>
+    <hr>
+  <% end %>
+</body>
+</html>
