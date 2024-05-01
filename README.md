@@ -41,12 +41,18 @@ Use Ctrl-C to stop
 
 ### First time non-cached response
 
-![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/48698373-e6cf-48a8-8ffe-d5fce9ed71ad)
+![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/729aeba9-28d4-460e-932e-5b514a44ee19)
+
 
 
 ### Subsequent cached response
 
-![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/3bf5f8f9-ec83-4676-9565-e00ac0cb5049)
+![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/1685531d-78a1-4139-a377-1dcad76a0419)
+
+
+### Search for Country other than India
+
+![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/7764eff9-0bdd-494a-ba58-b7de1dd3f0f2)
 
 
 
