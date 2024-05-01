@@ -50,9 +50,14 @@ Use Ctrl-C to stop
 ![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/1685531d-78a1-4139-a377-1dcad76a0419)
 
 
-### Search for Country other than India
+### Search for USA Address
 
 ![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/7764eff9-0bdd-494a-ba58-b7de1dd3f0f2)
+
+### Search for Luxembourg address
+
+![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/b66677f5-8bea-4c6d-8846-8435eb72e426)
+
 
 
 
