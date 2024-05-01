@@ -41,7 +41,8 @@ Use Ctrl-C to stop
 
 ### First time non-cached response
 
-![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/26edeb73-6d4c-46cd-a617-52d6a29ab2e3)
+![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/48698373-e6cf-48a8-8ffe-d5fce9ed71ad)
+
 
 ### Subsequent cached response
 
