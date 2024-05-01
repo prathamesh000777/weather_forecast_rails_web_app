@@ -1,0 +1,8 @@
+<h1>Weather Forecast</h1>
+<p>Please provide the address</p>
+<%= form_with(url: "forecast", method: "get", local: true) do |form| %>
+  <%= form.label :address %>
+  <%= form.text_field :address %>
+
+  <%= form.submit "Submit" %>
+<% end %>
