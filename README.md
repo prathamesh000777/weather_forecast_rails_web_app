@@ -39,7 +39,14 @@ Use Ctrl-C to stop
 
 # Forecast Result Page
 
+### First time non-cached response
+
 ![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/26edeb73-6d4c-46cd-a617-52d6a29ab2e3)
+
+### Subsequent cached response
+
+![image](https://github.com/prathamesh000777/weather_forecast_rails_web_app/assets/51914475/3bf5f8f9-ec83-4676-9565-e00ac0cb5049)
+
 
 
 # Invalid Pincode Errors
