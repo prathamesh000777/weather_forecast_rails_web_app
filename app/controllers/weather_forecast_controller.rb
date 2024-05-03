@@ -36,6 +36,6 @@ class WeatherForecastController < ApplicationController
   end
 
   def cache_key
-    "forecast_details_#{@address_details.postal_code}"
+    "forecast_details_#{@address_details.postal_code}_#{@address_details.country}"
   end
 end
